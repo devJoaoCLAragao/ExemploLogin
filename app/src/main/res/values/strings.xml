@@ -3,4 +3,22 @@
     <string name="e_mail">E-mail</string>
     <string name="cadastro">Cadastro</string>
     <string name="senha">Senha</string>
+
+    <string name="success">Sucesso</string>
+    <string name="success_message">Usuário criado com sucesso!</string>
+    <string name="button_ok">Ok</string>
+
+    <string name="button_yes">Sim</string>
+    <string name="button_no">Não</string>
+
+    <string name="ops">Ops</string>
+    <string name="user_error">Usuário já existe!</string>
+
+    <string name="user_reset_message">Usuário já existe! Deseja redefinir sua senha?</string>
+
+    <string name="generic_error">Algo aconteceu de errado, tente novamente mais tarde</string>
+    <string name="esqueci_minha_senha">Esqueci Minha Senha</string>
+    <string name="enviar_nova_senha">Enviar Nova Senha</string>
+    <string name="criar_conta">Criar Conta</string>
+
 </resources>
